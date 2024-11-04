@@ -13,4 +13,11 @@ Proyecto de chatbot concientizador del cambio climático y la acción humana res
 -Info de qué hacer respecto a esta situación
 
 # Herramientas:
+-Visual Studio Code
+
+-Python
+
+-Discord
+
+-Asyncio
 
