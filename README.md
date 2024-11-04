@@ -12,6 +12,8 @@ Proyecto de chatbot concientizador del cambio climático y la acción humana res
 
 -Info de qué hacer respecto a esta situación
 
+-Analizar al consumidor sobre cómo actua ante este
+
 # Herramientas:
 -Visual Studio Code
 
