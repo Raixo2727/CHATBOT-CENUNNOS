@@ -10,7 +10,7 @@ Proyecto de chatbot concientizador del cambio climático y la acción humana res
 
 -Info de por qué es importante
 
--Info de qué hacer
+-Info de qué hacer respecto a esta situación
 
 # Herramientas:
 
